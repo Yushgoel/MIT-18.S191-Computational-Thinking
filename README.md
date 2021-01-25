@@ -1,6 +1,8 @@
 # MIT-18.S191-Computational-Thinking
 Almost complete homework solutions to MIT 18.S191 course
 
+Course Website: https://computationalthinking.mit.edu/Fall20/
+
 Details on Homework Solutions:
 1. hw1 - Last exercise is buggy / incomplete
 2. hw2 - Complete
